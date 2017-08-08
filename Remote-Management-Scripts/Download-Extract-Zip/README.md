@@ -1,0 +1,1 @@
+These scripts are used to download and extract a zip file from a given URL on a remote system. It is a useful way to update scripts on remote Windows systems. It assumes that you have remote powershell access setup between your computers already
